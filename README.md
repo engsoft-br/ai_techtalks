@@ -1,2 +1,1 @@
-# ai_techtalks
-Artificial intelligence (AI) Tech Talks
+# Artificial intelligence (AI) Tech Talks
